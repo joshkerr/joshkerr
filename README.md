@@ -4,7 +4,7 @@
 **joshkerr/joshkerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on go projects to automate working with media
+- 🔭 I’m currently working on go projects to automate working with digital media. Rclone and Plex.
 - 🌱 I’m currently learning vibe coding with Claude
 - 💬 Ask me about the time I sold my first startup
 - 📫 How to reach me: joshkerr@gmail.com
