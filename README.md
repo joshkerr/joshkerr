@@ -4,6 +4,12 @@
 **joshkerr/joshkerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!-- GITHUB-STATS:START -->
+<img src="https://img.shields.io/badge/GitHub%20Member-17%20years%2C%206%20months%2C%20and%202%20days-blue?style=flat-square&logo=github" alt="GitHub Membership" />
+
+*Member since July 22, 2008*
+<!-- GITHUB-STATS:END -->
+
 - 🔭 I’m currently working on go projects to automate working with digital media. Rclone and Plex.
 - 🌱 I’m currently learning vibe coding with Claude
 - 💬 Ask me about the time I sold my first startup
