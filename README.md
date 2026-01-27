@@ -16,4 +16,5 @@
 - 📫 How to reach me: joshkerr@gmail.com
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: The Grateful Dead threated to sue me for distributing MP3's of their music on a website I wrote in college in 1995.
+- ⚡ University of Texas at Austin alumni. Studied computer science.
 
