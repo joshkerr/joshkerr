@@ -5,7 +5,7 @@
 -->
 
 <!-- GITHUB-STATS:START -->
-<img src="https://img.shields.io/badge/GitHub%20Member-17%20years%2C%207%20months%2C%20and%202%20days-blue?style=flat-square&logo=github" alt="GitHub Membership" />
+<img src="https://img.shields.io/badge/GitHub%20Member-17%20years%2C%207%20months%2C%20and%203%20days-blue?style=flat-square&logo=github" alt="GitHub Membership" />
 
 *Member since July 22, 2008*
 <!-- GITHUB-STATS:END -->
